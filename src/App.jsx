@@ -37,6 +37,10 @@ function App() {
       <Formulario titulo = "E-mail" mensagem = "sla"/>
       <Formulario titulo = "CPF" mensagem = "nsei"/>
       <Formulario />
+      <Formulario />
+      <Formulario />
+
+
 
 
 
